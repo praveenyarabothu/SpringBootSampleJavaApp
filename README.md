@@ -1,2 +1,1 @@
-# Freelancer Kit
-
+#SpringBoot Java Sample Application Testing with Travis CI 
